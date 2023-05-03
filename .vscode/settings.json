@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "system_error": "c",
+        "type_traits": "c",
+        "xlocnum": "c",
+        "xtr1common": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "func.h": "c",
+        "spend_time.h": "c",
+        "time.h": "c"
+    }
+}
